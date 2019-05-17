@@ -6,6 +6,7 @@ about:ABOUTDG
     a   <java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.FixedHTMLDataGetter> ;
     <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#htmlValue>
         """
+        <section class="uos_style" role="region">
         <h2>Über VIVO</h2>
         <div class=\"pageGroupBody\" id=\"aboutText\"><p>Die Software VIVO ermöglicht das Vernetzen und Entdecken von Forschenden über Institutionsgrenzen hinaus. Am Netzwerk teilnehmen können Institutionen mit lokalen VIVO-Installationen, aber auch mit anderen Forschungsinformationssystemen, die Semantic-Web-konforme Daten bereitstellen können. Die über  VIVO für die Suche und das Browsing zugänglichen Informationen verbleiben daher unter Kontrolle und Datenhoheit der jeweiligen Institute und Forschenden.</p>
 
@@ -30,4 +31,5 @@ about:ABOUTDG
 
         <p>Das Forschungsinformationssystem wird neben der internen Hochschulsteuerung vor allem der internen und externen Berichterstattung dienen. Ziel ist es die Außendarstellung und Reputation durch Sichtbarmachung und Präsentation von Forschungsaktivitäten sowie durch eine einheitliche Darstellung von Forscherinnen- und Forscherprofilen bzw. Forschungsprojekten im Rahmen des Corporate Designs verbessern zu können. Zudem wird durch die Generierung eines Expertinnen- und Expertenportals die Kontaktaufnahme, der fachliche Austausch und die Kommunikation mit der Öffentlichkeit befördert werden.</p>        
         </div>
+        </section>
         """@de-DE .
