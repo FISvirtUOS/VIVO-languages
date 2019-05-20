@@ -33,3 +33,7 @@ about:ABOUTDG
         </div>
         </section>
         """@de-DE .
+
+about:ABOUTPAGE  
+    <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title>
+        "Über Vivo"@de-DE ;
