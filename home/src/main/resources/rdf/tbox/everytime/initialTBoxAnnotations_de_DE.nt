@@ -15,7 +15,7 @@
 <http://purl.org/ontology/bibo/Book> <http://www.w3.org/2000/01/rdf-schema#label> "Buch"@de-DE .
 <http://vivoweb.org/ontology/core#AcademicDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Akademischer Grad"@de-DE .
 <http://purl.org/ontology/bibo/asin> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon Standard Identification Number (ASIN)"@de-DE .
-<http://vivoweb.org/ontology/core#isCorrespondingAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "Ist diese/r AutorIn ein Corresponding Author?"@de-DE .
+<http://vivoweb.org/ontology/core#isCorrespondingAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "Ist diese:r Autor:in ein:e Corresponding Autor:in?"@de-DE .
 <http://vivoweb.org/ontology/core#PostdoctoralTraining> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc-Training"@de-DE .
 <http://purl.org/ontology/bibo/EditedBook> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeberwerk"@de-DE .
 <http://purl.org/ontology/bibo/Excerpt> <http://www.w3.org/2000/01/rdf-schema#label> "Exzerpt"@de-DE .
