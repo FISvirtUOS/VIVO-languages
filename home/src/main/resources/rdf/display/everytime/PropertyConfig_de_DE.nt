@@ -105,6 +105,8 @@
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/fieldDependsProjectConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Fachbezogene Drittmittelprojekte"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/firstSupervisorDisserationConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Erstbetreuer:in"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/firstSupervisorPersonConfig>  <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Betreute Promotionen"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/secondSupervisorDisserationConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Zweitbetreuer:in"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/secondSupervisorPersonConfig>  <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Betreute Promotionen (Zweitbetreuer:in)"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/fieldDependsEmployeeConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Fachvertreter:in"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/fieldDependsPublicationConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Fachbezogene Publikationen"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/fieldDependsStrukPromotionConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Assoziierte Promotionsprogramme"@de-DE .
